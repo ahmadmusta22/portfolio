@@ -62,7 +62,7 @@ const Projects: React.FC = () => {
     {
       id: 5,
       title: 'Quick Cart',
-      description: 'This project is a modern, fully responsive e-commerce web application built using React.js for the UI, Tailwind CSS for utility-first styling, and integrated with a real RESTful API for dynamic product data. The application provides a smooth and intuitive user experience, allowing users to browse a catalog of products, view details, manage a shopping cart, and simulate a full online shopping experience..',
+      description: 'A modern, responsive e-commerce web app built with React.js, Tailwind CSS, and a RESTful API, offering intuitive product browsing, detailed views, cart management, and a seamless shopping experience.',
       image: '/images/quick.png',
       tags: ['React js', 'Tailwind', 'Redux', 'Api'],
       category: ['web', 'frontend', 'api'],
@@ -72,7 +72,7 @@ const Projects: React.FC = () => {
     {
       id: 6,
       title: 'Tasty Bites',
-      description: 'TastyBites is a full-featured restaurant management and ordering system developed using React.js for the frontend and Firebase for the backend services, including real-time database, authentication, and hosting. This system offers a seamless and responsive experience for both customers and admins, covering everything from browsing the menu, placing and tracking orders, to managing content and live communication through a powerful admin dashboard.',
+      description: 'TastyBites is a responsive restaurant management and ordering system built with React.js and Firebase, featuring real-time database, authentication, and hosting. It enables menu browsing, order placement and tracking, content management, and live communication via an admin dashboard.',
       image: '/images/tasty.png',
       tags: ['React js', 'firebase', 'bootstrap', 'framer motion'],
       category: ['web', 'frontend'],
