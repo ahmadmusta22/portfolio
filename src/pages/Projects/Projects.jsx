@@ -9,7 +9,7 @@ const projects = [
     description:
       "A modern, responsive portfolio website built with React.js and Tailwind CSS. Features smooth animations with Framer Motion, interactive project showcase, CV download functionality, and professional design optimized for all devices. Showcases my skills as a Front-End Developer with clean code and modern web development practices.",
     src: "portfolio.jpg",
-    link: "https://i.postimg.cc/J4jPVFY0/Annotation-2025-04-01-204723.png",
+    link: "/port.png",
     color: "#10b981",
     githubLink: "https://github.com/ahmadmusta22/portfolio",
     liveLink: "https://portfolio-ahmad-mustafas-projects-d8e1172c.vercel.app",
