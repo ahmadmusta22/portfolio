@@ -5,6 +5,16 @@ import PropTypes from "prop-types";
 
 const projects = [
   {
+    title: "Personal Portfolio Website",
+    description:
+      "A modern, responsive portfolio website built with React.js and Tailwind CSS. Features smooth animations with Framer Motion, interactive project showcase, CV download functionality, and professional design optimized for all devices. Showcases my skills as a Front-End Developer with clean code and modern web development practices.",
+    src: "portfolio.jpg",
+    link: "/favicon.svg",
+    color: "#10b981",
+    githubLink: "https://github.com/ahmadmusta22/portfolio",
+    liveLink: "https://portfolio-ahmad-mustafas-projects-d8e1172c.vercel.app",
+  },
+  {
     title: "Parking Management System",
     description:
       "React-based Parking Management System Frontend with full-stack capabilities. Features modern UI design, real-time updates, and comprehensive parking slot management.",
