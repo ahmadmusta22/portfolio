@@ -69,7 +69,7 @@ const projects = [
     description:
       "A modern React application built with Create React App. Features responsive design with SCSS styling, clean architecture, and professional user interface. Showcases modern web development practices and React.js expertise for research and checklist management applications.",
     src: "checkit.jpg",
-    link: "/freshcart-screenshot.png",
+    link: "/image.png",
     color: "#f59e0b",
     githubLink: "https://github.com/ahmadmusta22/CheckitResearch",
     liveLink: "https://checkit-topaz.vercel.app",
