@@ -54,14 +54,6 @@ const ExperienceCard = ({
 const ExperienceSection = () => {
   const experiences = [
     {
-      icon: Activity,
-      title: "Freelancing",
-      company: "Self-Employed",
-      period: "2024 - Present",
-      description:
-        "Developed full-stack web applications as a freelance developer. Built Parking Management System with parking slots and vehicle tracking functionality. Created Checkit Research application for managing and organizing research data with structured workflows and responsive user interface.",
-    },
-    {
       icon: Network,
       title: "Intensive Code Camp",
       company: "Information Technology Institute (ITI)",
@@ -84,6 +76,14 @@ const ExperienceSection = () => {
       period: "2019 - 2023",
       description:
         "Bachelor's degree in Computer Science with focus on software development, programming fundamentals, and modern web technologies.",
+    },
+    {
+      icon: Activity,
+      title: "Freelancing",
+      company: "Self-Employed",
+      period: "2024 - Present",
+      description:
+        "Developed full-stack web applications as a freelance developer. Built Parking Management System with parking slots and vehicle tracking functionality. Created Checkit Research application for managing and organizing research data with structured workflows and responsive user interface.",
     },
   ];
 
