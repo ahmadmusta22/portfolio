@@ -54,12 +54,20 @@ const ExperienceCard = ({
 const ExperienceSection = () => {
   const experiences = [
     {
+      icon: Activity,
+      title: "Freelancing",
+      company: "Self-Employed",
+      period: "2024 - Present",
+      description:
+        "Developed full-stack web applications as a freelance developer. Built Parking Management System with parking slots and vehicle tracking functionality. Created Checkit Research application for managing and organizing research data with structured workflows and responsive user interface.",
+    },
+    {
       icon: Network,
       title: "Intensive Code Camp",
       company: "Information Technology Institute (ITI)",
       period: "Nov 2024 - April 2025",
       description:
-        "Front-End and Cross-Platform Development intensive program. Built QuickCart (E-commerce platform), FilmStream (Movie browsing app), TaskTracker (Task management app), and ToDo app with CRUD functionality.",
+        "Front-End and Cross-Platform Development intensive program. Built QuickCart (E-commerce platform), FilmStream (Movie browsing app), TaskTracker (Task management app), and TastyBites (React-based restaurant web app) with admin dashboard.",
     },
     {
       icon: Layers,
