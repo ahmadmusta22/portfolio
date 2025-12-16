@@ -54,6 +54,26 @@ const projects = [
     githubLink: "https://github.com/ahmadmusta22/muraba-jam-boutique-shop",
     liveLink: "https://muraba.vercel.app",
   },
+  {
+    title: "FreshCart - Full E-commerce Application",
+    description:
+      "Full e-commerce web application using React.js with ContextAPI for state management. Features real-world payment gateway integration with Stripe, modern UI/UX design, shopping cart functionality, and comprehensive product management. Leverages ContextAPI to its full potential for efficient state management.",
+    src: "freshcart.jpg",
+    link: "/freshcart-screenshot.png",
+    color: "#22c55e",
+    githubLink: "https://github.com/ahmadmusta22/FreshCart",
+    liveLink: "https://fresh-cart-musta22-4avtj5884-ahmad-mustafas-projects-d8e1172c.vercel.app/",
+  },
+  {
+    title: "Checkit Research",
+    description:
+      "A modern React application built with Create React App. Features responsive design with SCSS styling, clean architecture, and professional user interface. Showcases modern web development practices and React.js expertise for research and checklist management applications.",
+    src: "checkit.jpg",
+    link: "/freshcart-screenshot.png",
+    color: "#f59e0b",
+    githubLink: "https://github.com/ahmadmusta22/CheckitResearch",
+    liveLink: "https://checkit-topaz.vercel.app",
+  },
   // {
   //   title: "Recipe Finder - Vanilla JavaScript",
   //   description:
